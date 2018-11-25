@@ -4,7 +4,7 @@ def my_hash
                 "Grooming" => "Jonathan Van Ness",
                 "Fashion" => "Tan France",
                 "Culture" => "Karamo Brown",
-                "Food" => "Antoni Porowski"
+                "Food" => "Antoni Porowski",
                 "Design" => "Bobby Berk"
               }
 end
